@@ -1,0 +1,10 @@
+pinecone
+openai
+python-dotenv
+haystack-ai
+requests
+
+
+pytelegrambotapi
+docling
+loguru
